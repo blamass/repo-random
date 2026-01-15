@@ -1,5 +1,4 @@
-# prueba
-Repositorio de practica
-
+# Practica
+Repositorio random de prueba
 ## descripcion
 Lamas Bruno
